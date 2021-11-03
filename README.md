@@ -62,6 +62,9 @@ Following resources  have been used while working on the project:
 
     https://choosealicense.com/
 
+4) Original styling :
+
+   https://startbootstrap.com/theme/resume
 
 
 ## License
@@ -72,4 +75,5 @@ means." (Quote for source #3)
 
 ## Collaborators:
 
-Valerii Bihun: valeriibihun.co@gmail.com
+Valerii Bihun: valeriibihun.co@gmail.com;
+Start Bootstrap themes;
