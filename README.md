@@ -32,7 +32,7 @@ Project section includes some info about all of the recent projects, technology 
 Each section includes links to the deployed application and GitHub repo.
 
 <br>
-<img alt="Project screenshots" src="./dist/assets/img/ReadMe2.jpg" />
+<img alt="Project screenshots" src="./dist/assets/img/ReadMe02.jpg" />
 <br>
 
 "Contact me" section is located on the bottom of the page. There are active buttons that direct us to different social platforms as well as a send email button.
