@@ -19,8 +19,7 @@ This project is going to be the base of my future portfolio and will be improved
 ## Installation
 Current project has been saved in my personal GitHub repository and is currently available for cloning and reviews on:
 
-https://github.com/Valllerian/Portfolio
-
+https://github.com/Valllerian/Updated-Portfolio
 ## Usage
 Websites includes some usable links to navigate through content as well as a button to download a resume:
 
